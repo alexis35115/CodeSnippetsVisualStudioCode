@@ -1,0 +1,23 @@
+{
+	"Print to console" : {
+		"prefix" : "cl",
+		"body": [
+			"console.log(\"$1\");"
+		],
+		"description": "Log output to console."
+	},
+	"Query Selector" : {
+		"prefix" : "dqs",
+		"body": [
+			"const $1 = document.querySelector(\"$2\");"
+		],
+		"description": "Create variable that contain an element from a query selector."
+	},
+	"Query Selector All" : {
+		"prefix" : "dqsa",
+		"body": [
+			"const $1 = document.querySelectorAll(\"$2\");"
+		],
+		"description": "Create variable that contains elements from a query selector all."
+	}
+}

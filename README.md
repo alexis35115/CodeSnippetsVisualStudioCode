@@ -1,2 +1,3 @@
-# CodeSnippetsVisualStudioCode
-Référentiel qui contient divers extraits de code pour Visual Studio Code
+# Référentiel avec divers extraits de code
+
+Voir la [documentation officielle](https://code.visualstudio.com/docs/editor/userdefinedsnippets).
